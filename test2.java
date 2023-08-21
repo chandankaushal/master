@@ -60,6 +60,8 @@ public class test2
     public static int[] ReturnNewArray (int value)
     {
         int temp = 0;
+        int x = 0;
+        
         int newvalue = value;
 
         while(value > 0)
