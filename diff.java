@@ -4,12 +4,16 @@ public class diff {
         System.out.println("Change");
         System.out.println("One More Change");
         System.out.println("Change from chandan/MyNewBranch");
+<<<<<<< HEAD
         System.out.println("This is my change from the new branch");
         System.out.println("Change");
         
         
         
 
+=======
+        Yo
+>>>>>>> chandan/MyNewBranch
 
     }
     
